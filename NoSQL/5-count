@@ -1,0 +1,2 @@
+// COMMENT
+print(db.school.count())
