@@ -1,2 +1,2 @@
-// COMMENT
-db.school.delete({ name: "Holberton School"}, {multi: true})
+// my comment
+db.school.remove({ name: "Holberton school" });
